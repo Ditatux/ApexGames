@@ -14,7 +14,7 @@
 			<p> </p>
 			<a href="/projects.php">Projects</a>
 			<p> </p>
-			<a href="/blag.php">Blag</a>
+			<a href="/blag.php">Blagosphere</a>
 		</div>
 		<p> </p>
 		<div class="content1">
